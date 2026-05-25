@@ -6,11 +6,12 @@ Tiện ích tự động hóa học tập trên edX.
 
 ## 📦 Hướng dẫn cài đặt (Chrome / Cốc Cốc / Edge)
 
-1. Tải và **giải nén** tệp tin tiện ích ra máy tính. Bạn sẽ thấy thư mục tên là `extension`.
-2. Mở Chrome, truy cập địa chỉ: **`chrome://extensions/`**
+1. Tải về tệp tin **[edxauto.zip](https://raw.githubusercontent.com/minhqnd/edx-tool-auto/refs/heads/main/edxauto.zip)** và **giải nén** ra máy tính của bạn.
+2. Mở trình duyệt Chrome, truy cập địa chỉ: **`chrome://extensions/`**
 3. Bật công tắc **"Chế độ dành cho nhà phát triển"** (Developer mode) ở góc trên bên phải.
 4. Bấm nút **"Tải tiện ích đã giải nén"** (Load unpacked) ở góc trên bên trái.
-5. Chọn thư mục **`extension`** vừa giải nén để hoàn tất cài đặt.
+5. Tìm và chọn thư mục vừa giải nén ở Bước 1 để hoàn tất cài đặt.
+
 
 ---
 
