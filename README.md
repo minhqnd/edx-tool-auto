@@ -18,7 +18,7 @@ Tiện ích tự động hóa học tập trên edX.
 
 ## 🛠️ Hướng dẫn sử dụng
 
-1. Mở trang bài học khóa học của bạn trên edX (ví dụ: `[learning.edx.org](https://learning.edx.org/course/course-v1:CurtinX+IOT2x+2T2018)`).
+1. Mở trang bài học khóa học của bạn trên edX (ví dụ: [learning.edx.org/course/course-v1:CurtinX+IOT2x+2T2018](https://learning.edx.org/course/course-v1:CurtinX+IOT2x+2T2018)).
 2. Click vào biểu tượng **edX Tomoimoi** trên thanh công cụ trình duyệt (bên cạnh thanh địa chỉ).
 3. Nhập mã bản quyền (**License Key**) của bạn và bấm **Activate & Sync Course**.
 4. Tiện ích sẽ tự động chạy, xem video, đọc tài liệu và tự chuyển bài tiếp theo.
