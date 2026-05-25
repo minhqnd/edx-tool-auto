@@ -2,7 +2,7 @@
 
 Tiện ích tự động hóa học tập trên edX.
 
-![Demo sử dụng edX Pro Automator Tomoimoi](img/demofull.gif)
+![Demo sử dụng edX Pro Automator Tomoimoi](img/demolowres.gif)
 ---
 
 ## 📦 Hướng dẫn cài đặt (Chrome / Cốc Cốc / Edge)
