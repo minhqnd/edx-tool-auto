@@ -2,6 +2,7 @@
 
 Tiện ích tự động hóa học tập trên edX.
 
+![Demo sử dụng edX Pro Automator Tomoimoi](img/demofull.gif)
 ---
 
 ## 📦 Hướng dẫn cài đặt (Chrome / Cốc Cốc / Edge)
@@ -21,6 +22,8 @@ Tiện ích tự động hóa học tập trên edX.
 2. Click vào biểu tượng **edX Tomoimoi** trên thanh công cụ trình duyệt (bên cạnh thanh địa chỉ).
 3. Nhập mã bản quyền (**License Key**) của bạn và bấm **Activate & Sync Course**.
 4. Tiện ích sẽ tự động chạy, xem video, đọc tài liệu và tự chuyển bài tiếp theo.
+
+👉 Liên hệ để được cung cấp **License Key**: https://www.facebook.com/huyy.556817
 
 ---
 
